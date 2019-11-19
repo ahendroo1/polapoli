@@ -1,19 +1,9 @@
 @charset "UTF-8";
 /* ------------------------------------------------------
-@File: Default Styles
-@Author: TemplateMr.
-@Developed By: Emran Khan
-@Developer Email: fed.emran@gmail.com
-@Developer URL: http://emran-khan.com
 
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
 ------------------------------------------------------- */
 /* ======================================================
-@Template Name: Aoop 
-@Author: TemplateMr. 
-@Default Styles
+
 
 Table of Content: 
 01/ Variables
@@ -59,7 +49,7 @@ Table of Content:
   min-width: 181px;
 }
 .theme_btn:hover, .theme_btn:focus {
-  background: #1be394;
+  background: #5079f7;
   color: #fff;
 }
 
@@ -574,6 +564,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li a:before, .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li .platform_facilitates a.platform_row:after, .platform_facilitates .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li a.platform_row:after, .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li .meet_yop .meet_row a.yop_video:after, .meet_yop .meet_row .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li a.yop_video:after {
   display: none;
 }
+
 .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li a i {
   color: #fff;
   font-size: 20px;
@@ -586,6 +577,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   background-image: -webkit-linear-gradient(90deg, #f38a50 0%, #f2c46f 100%);
   background-image: -ms-linear-gradient(90deg, #f38a50 0%, #f2c46f 100%);
 }
+
+
 .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li a .fa-cogs, .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li a .fa-drupal {
   background-image: -moz-linear-gradient(90deg, #6a5bfe 0%, #b698f6 100%);
   background-image: -webkit-linear-gradient(90deg, #6a5bfe 0%, #b698f6 100%);
@@ -601,6 +594,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 15px;
   line-height: 1;
 }
+
 .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li a span small {
   display: block;
   font-size: 14px;
@@ -618,6 +612,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding: 0 5px;
   display: inline-block;
 }
+
 @media (min-width: 991px) {
   .main_header_area .navbar .navbar_supported ul li.dropdown:hover .dropdown-menu, .main_header_area .navbar .navbar_supported ul li.dropdown:focus .dropdown-menu {
     left: 0px;
@@ -665,13 +660,13 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #fff;
 }
 .mha_2 .navbar .right_nav li .theme_btn {
-  background: #1be394;
+  background: #5079f7;
 }
 .mha_2 .navbar .right_nav li .theme_btn:hover, .mha_2 .navbar .right_nav li .theme_btn:focus {
   background: #5079f7;
 }
 .mha_2.navbar_fixed {
-  background: #5079f7;
+  background: white;
 }
 
 /*----------------------------------------------------*/
@@ -759,9 +754,10 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   animation: float-bob-y infinite 2s linear;
 }
 
-.ba_3 {
+.ba_3 { 
+  /* 5079f7 */
   background-image: -moz-linear-gradient(-23deg, #5079f7 0%, #4a46fe 99%);
-  background-image: -webkit-linear-gradient(-23deg, #5079f7 0%, #4a46fe 99%);
+  background-image: -webkit-linear-gradient(-23deg, white 0%, white 99%);
   background-image: -ms-linear-gradient(-23deg, #5079f7 0%, #4a46fe 99%);
   position: relative;
   padding-top: 180px;
@@ -819,7 +815,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .ba_3 .theme_btn:hover, .ba_3 .theme_btn:focus {
   color: #fff;
-  background: #1be394;
+  background: #5079f7;
 }
 .ba_3 span {
   font: 400 16px/1 "Poppins", sans-serif;
@@ -1098,7 +1094,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   background: #fea23c;
 }
 .get_started .gets .icons .img span.span_3 {
-  background: #1be394;
+  background: #5079f7;
 }
 .get_started .gets .icons a {
   font: 500 20px/30px "Poppins", sans-serif;
@@ -1201,7 +1197,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   height: 16px;
   width: 16px;
   border-radius: 50%;
-  background: #1be394;
+  background: #5079f7;
 }
 .platform_facilitates .platform .icons:after {
   content: "";
@@ -1410,9 +1406,9 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   background-image: -ms-linear-gradient(139deg, #fd4dc9 0%, #fdb5d5 100%);
 }
 .digital_modules .modules_inner .media .c_3 {
-  background-image: -moz-linear-gradient(139deg, #1be394 0%, #5ef8fe 100%);
-  background-image: -webkit-linear-gradient(139deg, #1be394 0%, #5ef8fe 100%);
-  background-image: -ms-linear-gradient(139deg, #1be394 0%, #5ef8fe 100%);
+  background-image: -moz-linear-gradient(139deg, #5079f7 0%, #5ef8fe 100%);
+  background-image: -webkit-linear-gradient(139deg, #5079f7 0%, #5ef8fe 100%);
+  background-image: -ms-linear-gradient(139deg, #5079f7 0%, #5ef8fe 100%);
 }
 .digital_modules .modules_inner .media .media-body {
   padding-left: 20px;
@@ -1664,7 +1660,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   font-size: 15px;
   line-height: 35px;
   min-width: 66px;
-  background: #1be394;
+  background: #5079f7;
   border: 0;
   border-radius: 0;
   padding: 0;
@@ -1728,7 +1724,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   line-height: 64px;
   width: 64px;
   color: #fff;
-  background: #1be394;
+  background: #5079f7;
   display: block;
   border-radius: 50%;
   text-align: center;
@@ -1786,11 +1782,11 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 10px;
 }
 .testimonial_area .testimonial_s .author a:hover, .testimonial_area .testimonial_s .author a:focus {
-  color: #1be394;
+  color: #5079f7;
 }
 .testimonial_area .testimonial_s .author h6 {
   font: 400 18px/1 "Poppins", sans-serif;
-  color: #1be394;
+  color: #5079f7;
   padding-bottom: 30px;
 }
 .testimonial_area .testimonial_s .author img {
@@ -1918,7 +1914,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 35px;
 }
 .partener_yop .revenue .theme_btn {
-  background: #1be394;
+  background: #5079f7;
   min-width: 216px;
 }
 .partener_yop .revenue .theme_btn:hover, .partener_yop .revenue .theme_btn:focus {
@@ -1973,7 +1969,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .partener_yop .become_partner .partner_text a {
   font: 400 18px/1 "Poppins", sans-serif;
-  color: #1be394;
+  color: #5079f7;
   padding-top: 25px;
   display: block;
 }
@@ -1997,7 +1993,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #fff;
   font-size: #fff;
   display: block;
-  background: #1be394;
+  background: #5079f7;
   cursor: pointer;
   font-size: 18px;
 }
@@ -2065,7 +2061,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .pricing_area .nav-tabs {
   border: 0;
   box-shadow: 0px 0px 20px 0px rgba(218, 218, 218, 0.45);
-  background: #1be394;
+  background: #5079f7;
   border-radius: 30px;
   height: 29px;
   width: 60px;
@@ -2118,7 +2114,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .pricing_area .plan h2 {
   font: 600 50px/1 "Poppins", sans-serif;
-  color: #1be394;
+  color: #5079f7;
 }
 .pricing_area .plan h2 small {
   font: 500 28px/1 "Poppins", sans-serif;
@@ -2153,7 +2149,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #525252;
 }
 .pricing_area .plan ul li i {
-  color: #1be394;
+  color: #5079f7;
   font-size: 16px;
   padding-right: 10px;
 }
@@ -2164,7 +2160,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   min-width: 224px;
 }
 .pricing_area .plan .tb_2 {
-  background: #1be394;
+  background: #5079f7;
 }
 .pricing_area .plan .tb_2:hover, .pricing_area .plan .tb_2:focus {
   background: #5079f7;
@@ -2250,11 +2246,11 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #242425;
 }
 .our_blog_area .blog_item .blog_cont .get_btn i {
-  color: #1be394;
+  color: #5079f7;
   padding-left: 7px;
 }
 .our_blog_area .blog_item .blog_cont .get_btn:hover, .our_blog_area .blog_item .blog_cont .get_btn:focus {
-  color: #1be394;
+  color: #5079f7;
 }
 .our_blog_area .blog_item:hover .blog_img img, .our_blog_area .blog_item:focus .blog_img img {
   transform: scale3D(1.2, 1.2, 2);
@@ -2279,7 +2275,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   transition: all 300ms linear 0s;
 }
 .blog_area .blog_left_sidebar .blog_item .blog_img .theme_btn {
-  background: #1be394;
+  background: #5079f7;
   border-radius: 0;
   position: absolute;
   left: 0;
@@ -2496,8 +2492,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-bottom: 10px;
 }
 .blog_area .blog_right_sidebar .widget .tag li a:hover, .blog_area .blog_right_sidebar .widget .tag li a:focus {
-  background: #1be394;
-  border-color: #1be394;
+  background: #5079f7;
+  border-color: #5079f7;
   color: #fff;
 }
 .blog_area .blog_right_sidebar .subscribe {
@@ -2517,7 +2513,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 25px;
 }
 .blog_area .blog_right_sidebar .subscribe .theme_btn {
-  background: #1be394;
+  background: #5079f7;
   width: 220px;
   margin: 0 auto;
 }
@@ -2572,7 +2568,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .blog_details .hilight {
   padding-left: 30px;
-  border-left: 4px solid #1be394;
+  border-left: 4px solid #5079f7;
   font: 400 18px/24px "Poppins", sans-serif;
   color: #2f2f2f;
   padding-bottom: 0;
@@ -2678,7 +2674,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: block;
 }
 .comments_area .comment_row .media .media-body .heding:hover, .comments_area .comment_row .media .media-body .heding:focus {
-  color: #1be394;
+  color: #5079f7;
 }
 .comments_area .comment_row .media .media-body h6 {
   font: 400 16px/1 "Poppins", sans-serif;
@@ -2738,7 +2734,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   top: 0;
   left: 0;
   right: 0;
-  background: #1be394;
+  background: #5079f7;
   z-index: -1;
   width: 34px;
   height: 30px;
@@ -2784,7 +2780,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-top: 20px;
 }
 .portfolio_grid .portfoli_inner .portfolio_item .hover a:hover, .portfolio_grid .portfoli_inner .portfolio_item .hover a:focus {
-  color: #1be394;
+  color: #5079f7;
 }
 .portfolio_grid .portfoli_inner .portfolio_item:hover .hover, .portfolio_grid .portfoli_inner .portfolio_item:focus .hover {
   transform: perspective(400px) rotateY(0deg);
@@ -2880,7 +2876,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   top: 0;
   width: 30px;
   height: 2px;
-  background: #1be394;
+  background: #5079f7;
 }
 .management_area .management p {
   max-width: 495px;
@@ -2909,7 +2905,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 45px;
 }
 .management_area .highlights i {
-  color: #1be394;
+  color: #5079f7;
   font-size: 78px;
   line-height: 1;
 }
@@ -2930,7 +2926,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .management_area .have_idea .theme_btn {
   min-width: 235px;
-  background: #1be394;
+  background: #5079f7;
 }
 .management_area .have_idea .theme_btn:hover, .management_area .have_idea .theme_btn:focus {
   background: #5079f7;
@@ -3165,9 +3161,9 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin: 0 auto;
   background: #c19ffd;
   border-radius: 50%;
-  background-image: -moz-linear-gradient(-165deg, #1be394 0%, #98f5cc 100%);
-  background-image: -webkit-linear-gradient(-165deg, #1be394 0%, #98f5cc 100%);
-  background-image: -ms-linear-gradient(-165deg, #1be394 0%, #98f5cc 100%);
+  background-image: -moz-linear-gradient(-165deg, #5079f7 0%, #98f5cc 100%);
+  background-image: -webkit-linear-gradient(-165deg, #5079f7 0%, #98f5cc 100%);
+  background-image: -ms-linear-gradient(-165deg, #5079f7 0%, #98f5cc 100%);
 }
 .contact_info .info .icons i:before, .contact_info .info .icons .platform_facilitates i.platform_row:after, .platform_facilitates .contact_info .info .icons i.platform_row:after, .contact_info .info .icons .meet_yop .meet_row i.yop_video:after, .meet_yop .meet_row .contact_info .info .icons i.yop_video:after {
   font-size: 50px;
@@ -3284,11 +3280,11 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #5079f7;
 }
 .smarter_collect .smarter_text .media .media-body .get_btn i {
-  color: #1be394;
+  color: #5079f7;
   padding-left: 5px;
 }
 .smarter_collect .smarter_text .media .media-body .get_btn:hover, .smarter_collect .smarter_text .media .media-body .get_btn:focus {
-  color: #1be394;
+  color: #5079f7;
 }
 .smarter_collect .smarter_img {
   text-align: right;
@@ -3368,7 +3364,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 25px;
 }
 .get_touch .theme_btn {
-  background: #1be394;
+  background: #5079f7;
   min-width: 236px;
   margin: 0 9px;
   margin-bottom: 10px;
@@ -3399,7 +3395,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .easily_engage .t_p {
   max-width: 530px;
-  border-left: 4px solid #1be394;
+  border-left: 4px solid #5079f7;
   padding-left: 23px;
   margin-bottom: 50px;
 }
@@ -3650,7 +3646,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   text-align: center;
 }
 .footer_social li a:hover, .footer_social li a:focus, .footer_social li a.active {
-  background: #1be394;
+  background: #5079f7;
   color: #fff;
 }
 
