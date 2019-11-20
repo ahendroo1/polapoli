@@ -1178,6 +1178,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .platform_facilitates .platform:hover, .platform_facilitates .platform:focus {
   box-shadow: 0px 0px 30px 0px rgba(137, 166, 254, 0.35);
+  background-color: #06bbf8 ;
 }
 .platform_facilitates .platform .icons {
   width: 106px;
