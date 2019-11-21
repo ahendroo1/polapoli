@@ -73,9 +73,7 @@ Table of Content:
     border-top-right-radius: 100%;
     border-bottom-right-radius: 100%;
     border-bottom-left-radius: 100%;
-  }
-
-  
+  }  
 
 .bg-color-end{
   padding:30px;
@@ -84,6 +82,12 @@ Table of Content:
 
 .card-end-fitur{
   margin-top:30px;
+}
+
+.input-form-end{
+  border:solid white 0px;
+  border-bottom: solid grey 1px;
+  border-radius: 0px
 }
 
 /* ------------------------------------------------------
