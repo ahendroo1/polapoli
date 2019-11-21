@@ -25,21 +25,24 @@
 				dots: false,
             	responsive: {
             		0: {
-            			items: 2, 
+            			items: 1, 
             		}, 
             		575: {
-            			items: 3, 
-						margin: 30,
+            			items: 1, 
+						// margin: 30,
             		}, 
             		767: {
-            			items: 4, 
-						margin: 30,
+            			items: 2, 
+						// margin: 30,
             		}, 
             		991: {
-            			items: 5
+            			items: 3,
+						margin: 0,
+						margin: 0,
             		},
             		1199: {
-            			items: 7
+            			items: 4,
+						margin: 0,
             		}
             	}
             })
