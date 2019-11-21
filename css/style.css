@@ -28,6 +28,7 @@ Table of Content:
 /*font Variables*/
 /*Color Variables*/
 /* Button Style */
+
 @import url(bootstrap.min.css);
 @import url("https://use.fontawesome.com/releases/v5.9.0/css/all.css");
 @import url(../vendors/flat-icon/flaticon.css);
@@ -37,6 +38,51 @@ Table of Content:
 @import url(../vendors/bootstrap-selector/nice-select.css);
 @import url(../vendors/jquery-ui/jquery-ui.min.css);
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800&amp;display=swap");
+
+  @media only screen and (min-width: 600px) {
+    
+    .cons_end{
+      background-image:url('../images/fe-bg.png');
+      background-repeat: no-repeat;
+      background-size: 100%;
+    }
+    .client-end{  
+      padding: 30px 15px 25px;
+      box-shadow: 0px 8px 15px 0px rgba(176, 194, 253, 0.35);
+      margin-top: 20px;
+      max-width: 1100px;
+    }
+    .img-client{
+      
+      width: 100%;
+    }
+
+  }
+  @media only screen and (max-width: 600px) {
+    
+    .img-client{
+      margin-bottom:50px;
+      width: 100%;
+    }
+
+  }
+
+  .img-client{
+    
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+  }
+
+  
+
+.bg-color-end{
+  padding:30px;
+  background-color: #5079f7;
+}
+
+
 .theme_btn {
   color: #fff;
   text-align: center;
