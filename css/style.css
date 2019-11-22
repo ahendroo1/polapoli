@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* ------------------------------------------------------
 
+
 ------------------------------------------------------- */
 /* ======================================================
 
@@ -42,7 +43,7 @@ Table of Content:
   @media only screen and (min-width: 600px) {
     
     .cons_end{
-      background-image:url('../images/fe-bg.png');
+      background-image:url('../images/polapoli_img/4/shape-end.png');
       background-repeat: no-repeat;
       background-size: 100%;
     }
@@ -56,6 +57,11 @@ Table of Content:
       
       width: 100%;
     }
+    
+    #platform-end{
+      border-radius:50%;
+      padding:30px;
+    }
 
   }
   @media only screen and (max-width: 600px) {
@@ -64,8 +70,15 @@ Table of Content:
       margin-bottom:50px;
       width: 100%;
     }
+      
+    #platform-end{
+      border-radius:50%;
+      padding-bottom:80px;
+      padding-top:80px;
+    }
 
   }
+
 
   .img-client{
     
@@ -1652,7 +1665,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .apis_data {
   display: block;
   overflow: hidden;
-  background: url("../images/polygon-bg.png") no-repeat;
+  background: url("../images/polapoli_img/logo_polapoli/bg-polapoli.png") no-repeat;
   background-size: cover;
   padding-top: 90px;
 }
