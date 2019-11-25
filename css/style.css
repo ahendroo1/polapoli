@@ -39,7 +39,7 @@ Table of Content:
 @import url(../vendors/bootstrap-selector/nice-select.css);
 @import url(../vendors/jquery-ui/jquery-ui.min.css);
 
-@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700&display=swap");
 
   @media only screen and (min-width: 600px) {
     
@@ -107,6 +107,10 @@ Table of Content:
 .plan-end{
   padding:0px;
 }
+.pr-10{
+  padding-right:10px;
+
+}
 
 .title-end{
   margin-top: 100px;
@@ -114,6 +118,7 @@ Table of Content:
 }
 .title-end h2{
   margin-bottom: 10px;
+  color: #2e368f;
 }
 .btn-end{
   border-radius:0px;
@@ -127,7 +132,7 @@ Table of Content:
 
 .color-blue-bold-end{
   color:#2e368f ;
-  font-weight : bold;
+  /* font-weight : bold; */
 }
 
 /* ------------------------------------------------------
@@ -209,6 +214,7 @@ body {
 }
 body h1, body h2, body h3, body h4, body h5, body h6 {
   margin: 0;
+  
 }
 body p {
   color: #2e368f;
@@ -287,7 +293,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .post_select .list li {
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-  color: #181818;
+  color: #2e368f;
 }
 
 /*----------------------------------------------------*/
@@ -581,7 +587,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu a {
   background-color: transparent;
   font: 400 18px/40px 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   margin: 0;
   display: block;
   padding: 0 25px;
@@ -974,7 +980,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .pages_banner h2 {
   color: #fff;
-  font: 500 50px/1 'Montserrat', sans-serif;
+  font: 500 50px/1 "Montserrat", sans-serif;
   padding-bottom: 20px;
   padding-top: 85px;
 }
@@ -1084,7 +1090,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .integration_services h2 {
   font: 500 36px/45px 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   text-align: center;
   max-width: 510px;
   margin: 0 auto;
@@ -1522,7 +1528,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .digital_modules .modules_inner .media .media-body a {
   display: block;
   font: 500 20px/1 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 17px;
 }
 .digital_modules .modules_inner .media .media-body a:hover, .digital_modules .modules_inner .media .media-body a:focus {
@@ -1535,7 +1541,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .digital_modules .reporting_area h2 {
   font: 500 36px/45px 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   max-width: 430px;
   padding: 25px 0;
 }
@@ -1594,7 +1600,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .dm_2 .media .media-body .heding {
   display: block;
   font: 500 20px/1 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 17px;
 }
 .dm_2 .media .media-body .heding:hover, .dm_2 .media .media-body .heding:focus {
@@ -1638,13 +1644,13 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .increase_row .increase h4 {
   font: 500 22px/28px 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 20px;
 }
 .increase_row .increase a {
   display: block;
   font: 500 18px/1 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-top: 25px;
 }
 .increase_row .increase a:hover, .increase_row .increase a:focus {
@@ -1945,7 +1951,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .people_behind .people a {
   display: block;
   font: 500 20px/1 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-top: 20px;
 }
 .people_behind .people a:hover, .people_behind .people a:focus {
@@ -1953,7 +1959,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .people_behind .people h6 {
   font: 400 16px/1 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-top: 15px;
 }
 
@@ -2061,7 +2067,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .partener_yop .become_partner .partner_text h2 {
   font: 500 28px/36px 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 0;
   padding-top: 15px;
 }
@@ -2654,7 +2660,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .blog_details h3 {
   font: 400 22px/28px 'Montserrat', sans-serif;
-  color: #282828;
+  color: #2e368f;
   padding-bottom: 30px;
 }
 .blog_details p {
@@ -2662,7 +2668,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .blog_details h2 {
   font: 400 22px/38px 'Montserrat', sans-serif;
-  color: #282828;
+  color: #2e368f;
   padding-bottom: 35px;
   padding-top: 20px;
 }
@@ -2759,7 +2765,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .comments_area .comment_row h3 {
   font: 500 22px/1 'Montserrat', sans-serif;
-  color: #2f2f2f;
+  color: #2e368f;
   display: block;
   padding-bottom: 50px;
 }
@@ -2933,12 +2939,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .strategy_area h4 {
   font: 400 16px/27px'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-top: 120px;
 }
 .strategy_area h2 {
   font: 500 36px/45px 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-top: 10px;
 }
 .strategy_area .visit_website {
@@ -2970,7 +2976,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .management_area .management h2 {
   font: 500 36px/45px 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-top: 25px;
   position: relative;
   margin-top: 145px;
@@ -3003,12 +3009,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .management_area .highlights h2 {
   font: 500 36px/45px 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 10px;
 }
 .management_area .highlights h3 {
   font: 500 30px/1 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-top: 45px;
 }
 .management_area .highlights i {
@@ -3018,7 +3024,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .management_area .highlights h6 {
   font: 500 18px/1 'Montserrat', sans-serif;
-  color: #282828;
+  color: #2e368f;
   padding-top: 15px;
   padding-bottom: 50px;
 }
@@ -3028,7 +3034,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .management_area .have_idea h2 {
   font: 500 36px/45px 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 25px;
 }
 .management_area .have_idea .theme_btn {
@@ -3080,7 +3086,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .got_problem .problem_from h2 {
   font: 500 28px/1 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 30px;
 }
 .got_problem .problem_from p {
@@ -3162,7 +3168,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .leave_comment h2 {
   font: 500 22px/1 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 55px;
 }
 .leave_comment .comment_from {
@@ -3302,11 +3308,11 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .contact_info .quick_call h3 {
   font: 500 28px/1 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
 }
 .contact_info .quick_call .name {
   font: 500 22px 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   display: block;
   padding: 45px 0 30px;
 }
@@ -3371,7 +3377,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .smarter_collect .smarter_text .media .media-body .heding {
   display: block;
   font: 500 20px/1 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 17px;
 }
 .smarter_collect .smarter_text .media .media-body .heding:hover, .smarter_collect .smarter_text .media .media-body .heding:focus {
@@ -3497,7 +3503,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .easily_engage h2 {
   font: 500 36px/46px  'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 30px;
 }
 .easily_engage .t_p {
@@ -3590,7 +3596,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .insight_integrations .tittle h2 {
   font: 500 36px/45px 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 20px;
 }
 .insight_integrations .tittle p {
@@ -3959,7 +3965,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   }
   .main_header_area .navbar .navbar-toggler {
     font-size: 25px;
-    color: #181818;
+    color: #2e368f;
     margin: 0;
     padding: 0;
     line-height: 40px;
