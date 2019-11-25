@@ -145,7 +145,7 @@ Cusome CSS End
 .theme_btn {
   color: #fff;
   text-align: center;
-  font: 400 18px/50px "Poppins", sans-serif;
+  font: 400 18px/50px 'Montserrat', sans-serif;
   display: inline-block;
   padding: 0 20px;
   background: #2e368f;
@@ -213,7 +213,7 @@ body h1, body h2, body h3, body h4, body h5, body h6 {
 body p {
   color: #2e368f;
   margin: 0;
-  font: 400 16px/28px "Poppins", sans-serif;
+  font: 400 16px/28px  'Montserrat', sans-serif;
 }
 body ul {
   margin: 0;
@@ -257,7 +257,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   border: 0;
   box-shadow: none;
   outline: none;
-  font: 400 16px/40px "Poppins", sans-serif;
+  font: 400 16px/40px 'Montserrat', sans-serif ;
   padding: 0 30px;
   height: auto;
   border-radius: 0;
@@ -533,7 +533,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin: 0 15px;
   padding: 0;
   color: #2e368f;
-  font: 400 18px/52px "Poppins", sans-serif;
+  font: 400 18px/52px 'Montserrat', sans-serif;
   position: relative;
   display: block;
   z-index: 1;
@@ -580,7 +580,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu a {
   background-color: transparent;
-  font: 400 18px/40px "Poppins", sans-serif;
+  font: 400 18px/40px 'Montserrat', sans-serif;
   color: #181818;
   margin: 0;
   display: block;
@@ -712,7 +712,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   right: 0;
   background: red;
   color: #fff;
-  font: 400 12px/18px "Poppins", sans-serif;
+  font: 400 12px/18px "Montserrat", sans-serif;
   text-align: center;
   padding: 0 5px;
   display: inline-block;
@@ -730,7 +730,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .main_header_area .navbar .right_nav li a {
   color: #2e368f;
-  font: 400 18px/52px "Poppins", sans-serif;
+  font: 400 18px/52px "Montserrat", sans-serif;
 }
 .main_header_area .navbar .right_nav li a:hover, .main_header_area .navbar .right_nav li a:focus {
   color: #1be394;
@@ -785,7 +785,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   border-bottom: 1px solid #eaeef6;
 }
 .banner_area h2 {
-  font: 500 50px/55px "Poppins", sans-serif;
+  font: 500 50px/55px 'Montserrat', sans-serif;
   color: #2e368f;
   padding-bottom: 5px;
   padding-top: 60px;
@@ -894,7 +894,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .ba_3 h4 {
   color: #fff;
-  font: 400 18px/27px "Poppins", sans-serif;
+  font: 400 18px/27px "Montserrat", sans-serif;
 }
 .ba_3 h4 i {
   width: 27px;
@@ -923,14 +923,14 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   background: #2e368f;
 }
 .ba_3 span {
-  font: 400 16px/1 "Poppins", sans-serif;
+  font: 400 16px/1 "Montserrat", sans-serif;
   color: rgba(255, 255, 255, 0.8);
   position: relative;
   top: 7px;
   padding-left: 17px;
 }
 .ba_3 span b {
-  font: 400 40px/1 "Poppins", sans-serif;
+  font: 400 40px/1 "Montserrat", sans-serif;
 }
 .ba_3 .banner_i .images {
   position: relative;
@@ -974,7 +974,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .pages_banner h2 {
   color: #fff;
-  font: 500 50px/1 "Poppins", sans-serif;
+  font: 500 50px/1 'Montserrat', sans-serif;
   padding-bottom: 20px;
   padding-top: 85px;
 }
@@ -1083,7 +1083,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding: 105px 0 180px;
 }
 .integration_services h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px 'Montserrat', sans-serif;
   color: #181818;
   text-align: center;
   max-width: 510px;
@@ -1115,7 +1115,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   box-shadow: 0px 0px 30px 0px rgba(137, 166, 254, 0.35);
 }
 .integration_services .services_item a {
-  font: 500 20px/32px "Poppins", sans-serif;
+  font: 500 20px/32px 'Montserrat', sans-serif;
   color: #282828;
   display: flex;
   align-items: center;
@@ -1193,7 +1193,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #fff;
   background: #2e368f;
   text-align: center;
-  font: 500 16px/27px "Poppins", sans-serif;
+  font: 500 16px/27px 'Montserrat', sans-serif;
 }
 .get_started .gets .icons .img span.span_2 {
   background: #fea23c;
@@ -1202,7 +1202,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   background: #2e368f;
 }
 .get_started .gets .icons a {
-  font: 500 20px/30px "Poppins", sans-serif;
+  font: 500 20px/30px 'Montserrat', sans-serif;
   color: #282828;
   padding-left: 20px;
 }
@@ -1224,7 +1224,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .client_logo_area h6 {
   display: block;
   overflow: hidden;
-  font: 400 18px/30px "Poppins", sans-serif;
+  font: 400 18px/30px 'Montserrat', sans-serif;
   color: rgba(24, 24, 24, 0.8);
   padding-bottom: 35px;
 }
@@ -1249,7 +1249,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .platform_facilitates h2 {
   text-align: center;
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px 'Montserrat', sans-serif;
   color: #2e368f;
   max-width: 600px;
   margin: 0 auto 60px;
@@ -1339,7 +1339,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .platform_facilitates .platform a {
   display: block;
-  font: 500 20px/1 "Poppins", sans-serif;
+  font: 500 20px/1 'Montserrat', sans-serif;
   color: #282828;
   padding: 27px 0;
 }
@@ -1429,11 +1429,11 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 70px;
 }
 .cloud_agency_area .containt_inner h5 {
-  font: 400 18px/1 "Poppins", sans-serif;
+  font: 400 18px/1 'Montserrat', sans-serif;
   color: #2e368f;
 }
 .cloud_agency_area .containt_inner h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px 'Montserrat', sans-serif;
   color: #2e368f;
   max-width: 430px;
   padding: 25px 0;
@@ -1468,7 +1468,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   overflow: hidden;
 }
 .digital_modules .tittle h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px 'Montserrat', sans-serif;
   color: #2e368f;
   padding-bottom: 20px;
 }
@@ -1521,7 +1521,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .digital_modules .modules_inner .media .media-body a {
   display: block;
-  font: 500 20px/1 "Poppins", sans-serif;
+  font: 500 20px/1 'Montserrat', sans-serif;
   color: #181818;
   padding-bottom: 17px;
 }
@@ -1530,11 +1530,11 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .digital_modules .reporting_area h5 {
   padding-top: 10px;
-  font: 400 18px/1 "Poppins", sans-serif;
+  font: 400 18px/1 'Montserrat', sans-serif;
   color: #2e368f;
 }
 .digital_modules .reporting_area h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px 'Montserrat', sans-serif;
   color: #181818;
   max-width: 430px;
   padding: 25px 0;
@@ -1593,7 +1593,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .dm_2 .media .media-body .heding {
   display: block;
-  font: 500 20px/1 "Poppins", sans-serif;
+  font: 500 20px/1 'Montserrat', sans-serif;
   color: #181818;
   padding-bottom: 17px;
 }
@@ -1637,13 +1637,13 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   z-index: -1;
 }
 .increase_row .increase h4 {
-  font: 500 22px/28px "Poppins", sans-serif;
+  font: 500 22px/28px 'Montserrat', sans-serif;
   color: #181818;
   padding-bottom: 20px;
 }
 .increase_row .increase a {
   display: block;
-  font: 500 18px/1 "Poppins", sans-serif;
+  font: 500 18px/1 'Montserrat', sans-serif;
   color: #181818;
   padding-top: 25px;
 }
@@ -1652,7 +1652,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .increase_row .increase h6 {
   color: rgba(24, 24, 24, 0.8);
-  font: 400 16px/1 "Poppins", sans-serif;
+  font: 400 16px/1 'Montserrat', sans-serif;
   padding-top: 5px;
 }
 
@@ -1694,7 +1694,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .apis_data h2 {
   color: #fff;
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px "Montserrat", sans-serif;
 }
 .apis_data P {
   color: rgba(255, 255, 255, 0.8);
@@ -1715,7 +1715,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .apis_data h4 {
   color: #fff;
-  font: 500 18px/1 "Poppins", sans-serif;
+  font: 500 18px/1 "Montserrat", sans-serif;
   padding-bottom: 20px;
   padding-top: 70px;
 }
@@ -1728,7 +1728,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   box-shadow: none;
   outline: none;
   border-radius: 0;
-  font: 400 15px/35px "Poppins", sans-serif;
+  font: 400 15px/35px "Montserrat", sans-serif;
   color: #8a92a8;
   padding: 0 15px;
   height: auto;
@@ -1793,7 +1793,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .meet_yop .meet_row h2 {
   font: 500 36px/1 'Montserrat', sans-serif;
   /* font-family: 'Montserrat', sans-serif; */
-  color: #181818;
+  color: #2e368f;
   padding-bottom: 20px;
 }
 .meet_yop .meet_row .yop_video {
@@ -1843,8 +1843,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 60px;
 }
 .meet_yop .our_story h2 {
-  font: 500 36px/1 "Poppins", sans-serif;
-  color: #181818;
+  font: 500 36px/1 'Montserrat', sans-serif;
+  color: #2e368f;
   padding-bottom: 20px;
   padding-top: 20px;
 }
@@ -1870,8 +1870,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 35px;
 }
 .testimonial_area .testimonial_s h2 {
-  font: 500 35px/45px "Poppins", sans-serif;
-  color: #181818;
+  font: 500 35px/45px 'Montserrat', sans-serif;
+  color: #2e368f;
 }
 .testimonial_area .testimonial_s p {
   font-size: 18px;
@@ -1883,7 +1883,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 40px;
 }
 .testimonial_area .testimonial_s .author a {
-  font: 400 20px/1 "Poppins", sans-serif;
+  font: 400 20px/1 'Montserrat', sans-serif;
   color: rgba(36, 36, 37, 0.902);
   display: block;
   padding-bottom: 10px;
@@ -1892,7 +1892,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #2e368f;
 }
 .testimonial_area .testimonial_s .author h6 {
-  font: 400 18px/1 "Poppins", sans-serif;
+  font: 400 18px/1 'Montserrat', sans-serif;
   color: #2e368f;
   padding-bottom: 30px;
 }
@@ -1930,8 +1930,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   text-align: center;
 }
 .people_behind h2 {
-  font: 500 36px/1 "Poppins", sans-serif;
-  color: #181818;
+  font: 500 36px/1 "Montserrat", sans-serif;
+  color: #2e368f;
   padding-bottom: 75px;
 }
 .people_behind .people {
@@ -1944,7 +1944,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .people_behind .people a {
   display: block;
-  font: 500 20px/1 "Poppins", sans-serif;
+  font: 500 20px/1 'Montserrat', sans-serif;
   color: #181818;
   padding-top: 20px;
 }
@@ -1952,7 +1952,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #2e368f;
 }
 .people_behind .people h6 {
-  font: 400 16px/1 "Poppins", sans-serif;
+  font: 400 16px/1 'Montserrat', sans-serif;
   color: #181818;
   padding-top: 15px;
 }
@@ -1972,8 +1972,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 150px;
 }
 .partener_yop h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
-  color: #181818;
+  font: 500 36px/45px 'Montserrat', sans-serif;
+  color: #2e368f;
   padding-bottom: 15px;
 }
 .partener_yop p {
@@ -2016,8 +2016,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   z-index: -1;
 }
 .partener_yop .revenue p {
-  font: 500 22px/32px "Poppins", sans-serif;
-  color: #181818;
+  font: 500 22px/32px 'Montserrat', sans-serif;
+  color: #2e368f;
   padding-bottom: 35px;
 }
 .partener_yop .revenue .theme_btn {
@@ -2060,7 +2060,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   background-image: -ms-linear-gradient(-62deg, #f2ca72 0%, #fc8f53 99%);
 }
 .partener_yop .become_partner .partner_text h2 {
-  font: 500 28px/36px "Poppins", sans-serif;
+  font: 500 28px/36px 'Montserrat', sans-serif;
   color: #181818;
   padding-bottom: 0;
   padding-top: 15px;
@@ -2075,7 +2075,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-top: 18px;
 }
 .partener_yop .become_partner .partner_text a {
-  font: 400 18px/1 "Poppins", sans-serif;
+  font: 400 18px/1 'Montserrat', sans-serif;
   color: #2e368f;
   padding-top: 25px;
   display: block;
@@ -2112,8 +2112,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .faq_area h2 {
   text-align: center;
-  font: 500 36px/45px "Poppins", sans-serif;
-  color: #181818;
+  font: 500 36px/45px 'Montserrat', sans-serif;
+  color: #2e368f;
   padding-bottom: 35px;
 }
 .faq_area .frequently {
@@ -2121,7 +2121,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin: 0 auto;
 }
 .faq_area .frequently .faq a {
-  font: 500 18px/27px "Poppins", sans-serif;
+  font: 500 18px/27px 'Montserrat', sans-serif;
   color: #201818;
   display: block;
   border-bottom: 1px solid #f9f9f9;
@@ -2182,7 +2182,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .pricing_area .nav-tabs li:before, .pricing_area .nav-tabs .platform_facilitates li.platform_row:after, .platform_facilitates .pricing_area .nav-tabs li.platform_row:after, .pricing_area .nav-tabs .meet_yop .meet_row li.yop_video:after, .meet_yop .meet_row .pricing_area .nav-tabs li.yop_video:after {
   content: "Monthly Billing";
-  font: 400 22px/1 "Poppins", sans-serif;
+  font: 400 22px/1 'Montserrat', sans-serif;
   color: #525252;
   position: absolute;
   margin-left: -170px;
@@ -2215,19 +2215,19 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   border-right: 0;
 }
 .pricing_area .plan h4 {
-  font: 500 28px/1 "Poppins", sans-serif;
+  font: 500 28px/1 'Montserrat', sans-serif;
   color: #525252;
   padding-bottom: 15px;
 }
 .pricing_area .plan h2 {
-  font: 600 50px/1 "Poppins", sans-serif;
+  font: 600 50px/1 'Montserrat', sans-serif;
   color: #2e368f;
 }
 .pricing_area .plan h2 small {
-  font: 500 28px/1 "Poppins", sans-serif;
+  font: 500 28px/1 'Montserrat', sans-serif;
 }
 .pricing_area .plan h6 {
-  font: 400 16px/1 "Poppins", sans-serif;
+  font: 400 16px/1 'Montserrat', sans-serif;
   color: #525252;
   padding-top: 10px;
   padding-bottom: 20px;
@@ -2243,7 +2243,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   position: absolute;
 }
 .pricing_area .plan h5 {
-  font: 500 22px/1 "Poppins", sans-serif;
+  font: 500 22px/1 'Montserrat', sans-serif;
   color: #525252;
   padding-top: 38px;
 }
@@ -2252,7 +2252,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 30px;
 }
 .pricing_area .plan ul li {
-  font: 400 15px/40px "Poppins", sans-serif;
+  font: 400 15px/40px 'Montserrat', sans-serif;
   color: #525252;
 }
 .pricing_area .plan ul li i {
@@ -2304,8 +2304,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   overflow: hidden;
 }
 .our_blog_area .tittle h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
-  color: #181818;
+  font: 500 36px/45px 'Montserrat', sans-serif;
+  color: #2e368f;
   padding-bottom: 20px;
 }
 .our_blog_area .tittle p {
@@ -2330,7 +2330,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 45px;
 }
 .our_blog_area .blog_item .blog_cont .heding {
-  font: 500 20px/28px "Poppins", sans-serif;
+  font: 500 20px/28px 'Montserrat', sans-serif;;
   color: #242425;
   display: block;
 }
@@ -2338,7 +2338,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #2e368f;
 }
 .our_blog_area .blog_item .blog_cont h6 {
-  font: 400 16px/1 "Poppins", sans-serif;
+  font: 400 16px/1 'Montserrat', sans-serif;;
   color: rgba(24, 24, 24, 0.8);
   padding: 20px 0 40px;
 }
@@ -2349,7 +2349,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #2e368f;
 }
 .our_blog_area .blog_item .blog_cont .get_btn {
-  font: 400 16px/1 "Poppins", sans-serif;
+  font: 400 16px/1 'Montserrat', sans-serif;;
   color: #242425;
 }
 .our_blog_area .blog_item .blog_cont .get_btn i {
@@ -2411,7 +2411,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .blog_area .blog_left_sidebar .blog_item h6 {
   display: block;
-  font: 400 16px/35px "Poppins", sans-serif;
+  font: 400 16px/35px 'Montserrat', sans-serif;
   color: #626161;
   padding-top: 10px;
 }
@@ -2419,7 +2419,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-right: 10px;
 }
 .blog_area .blog_left_sidebar .blog_item .heding {
-  font: 500 28px/36px "Poppins", sans-serif;
+  font: 500 28px/36px 'Montserrat', sans-serif;
   color: #2f2f2f;
   display: block;
   padding: 15px 0;
@@ -2428,8 +2428,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #2e368f;
 }
 .blog_area .blog_left_sidebar .blog_item .explore_btn {
-  font: 400 16px/1 "Poppins", sans-serif;
-  color: #181818;
+  font: 400 16px/1 'Montserrat', sans-serif;
+  color: #2e368f;
   display: block;
   padding-top: 15px;
 }
@@ -2451,7 +2451,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .blog_area .blog_left_sidebar .link a {
   color: #2e368f;
-  font: 400 22px/30px "Poppins", sans-serif;
+  font: 400 22px/30px 'Montserrat', sans-serif;
 }
 .blog_area .blog_left_sidebar .link:after {
   content: "\f0c1";
@@ -2480,7 +2480,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   border: 0;
   border-right: 0;
   background: #f9f9f9;
-  font: 400 16px/68px "Poppins", sans-serif;
+  font: 400 16px/68px 'Montserrat', sans-serif;
   color: #c2c2c2;
   border-radius: 0;
   padding: 0 30px;
@@ -2522,7 +2522,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   background-color: transparent;
   padding: 0 20px;
   border-radius: 0;
-  color: #181818;
+  color: #2e368f;
 }
 .blog_area .blog_right_sidebar .input-group .input-group-append span:hover, .blog_area .blog_right_sidebar .input-group .input-group-append span:focus {
   background: #2e368f;
@@ -2536,8 +2536,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 40px;
 }
 .blog_area .blog_right_sidebar .widget h4 {
-  font: 500 22px/1 "Poppins", sans-serif;
-  color: #181818;
+  font: 500 22px/1 'Montserrat', sans-serif;
+  color: #2e368f;
   padding-bottom: 20px;
 }
 .blog_area .blog_right_sidebar .widget .categories {
@@ -2545,16 +2545,16 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .blog_area .blog_right_sidebar .widget .categories li a {
   display: block;
-  font: 400 16px/42px "Poppins", sans-serif;
-  color: #181818;
+  font: 400 16px/42px 'Montserrat', sans-serif;
+  color: #2e368f;
   border-bottom: 1px solid #ededed;
 }
 .blog_area .blog_right_sidebar .widget .categories li a:hover, .blog_area .blog_right_sidebar .widget .categories li a:focus {
   color: #2e368f;
 }
 .blog_area .blog_right_sidebar .widget .rcent_p li a {
-  font: 400 16px/27px "Poppins", sans-serif;
-  color: #181818;
+  font: 400 16px/27px 'Montserrat', sans-serif;
+  color: #2e368f;
   display: block;
   border-bottom: 1px solid #ededed;
   padding: 20px 0;
@@ -2564,8 +2564,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .blog_area .blog_right_sidebar .widget .recent_c li a {
   display: block;
-  font: 400 16px/30px "Poppins", sans-serif;
-  color: #181818;
+  font: 400 16px/30px'Montserrat', sans-serif;
+  color: #2e368f;
   position: relative;
   padding-left: 15px;
 }
@@ -2576,7 +2576,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   top: 0;
   font-weight: 900;
   font-family: 'Montserrat', sans-serif;
-  color: #181818;
+  color: #2e368f;
   transition: all 300ms linear 0s;
 }
 .blog_area .blog_right_sidebar .widget .recent_c li a:hover, .blog_area .blog_right_sidebar .widget .recent_c li a:focus {
@@ -2591,7 +2591,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .blog_area .blog_right_sidebar .widget .tag li a {
   display: block;
-  font: 400 16px/36px "Poppins", sans-serif;
+  font: 400 16px/36px 'Montserrat', sans-serif;
   text-align: center;
   color: #503c57;
   border: 1px solid #f7f4ff;
@@ -2610,12 +2610,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   text-align: center;
 }
 .blog_area .blog_right_sidebar .subscribe h2 {
-  font: 500 22px/1 "Poppins", sans-serif;
-  color: #181818;
+  font: 500 22px/1 'Montserrat', sans-serif;
+  color: #2e368f;
 }
 .blog_area .blog_right_sidebar .subscribe h4 {
-  font: 400 16px/1 "Poppins", sans-serif;
-  color: #181818;
+  font: 400 16px/1 'Montserrat', sans-serif;
+  color: #2e368f;
   padding-top: 15px;
   padding-bottom: 25px;
 }
@@ -2636,24 +2636,24 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 35px;
 }
 .blog_details .tittle_b h6 {
-  font: 400 18px/1 "Poppins", sans-serif;
+  font: 400 18px/1 'Montserrat', sans-serif;
   color: #2e368f;
 }
 .blog_details .tittle_b h2 {
-  font: 500 28px/36px "Poppins", sans-serif;
+  font: 500 28px/36px 'Montserrat', sans-serif;
   color: #282828;
   padding-top: 20px;
   padding-bottom: 13px;
 }
 .blog_details .tittle_b h5 {
-  font: 400 16px/35px "Poppins", sans-serif;
+  font: 400 16px/35px 'Montserrat', sans-serif
   color: #626161;
 }
 .blog_details .tittle_b h5 i {
   margin-right: 10px;
 }
 .blog_details h3 {
-  font: 400 22px/28px "Poppins", sans-serif;
+  font: 400 22px/28px 'Montserrat', sans-serif;
   color: #282828;
   padding-bottom: 30px;
 }
@@ -2661,7 +2661,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 15px;
 }
 .blog_details h2 {
-  font: 400 22px/38px "Poppins", sans-serif;
+  font: 400 22px/38px 'Montserrat', sans-serif;
   color: #282828;
   padding-bottom: 35px;
   padding-top: 20px;
@@ -2676,7 +2676,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .blog_details .hilight {
   padding-left: 30px;
   border-left: 4px solid #2e368f;
-  font: 400 18px/24px "Poppins", sans-serif;
+  font: 400 18px/24px 'Montserrat', sans-serif;
   color: #2f2f2f;
   padding-bottom: 0;
   margin: 30px 0 40px;
@@ -2691,7 +2691,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 10px;
 }
 .blog_details .socail li:first-child {
-  font: 500 18px/1 "Poppins", sans-serif;
+  font: 500 18px/1 'Montserrat', sans-serif;
   color: #2f2f2f;
 }
 .blog_details .socail li:first-child i {
@@ -2736,7 +2736,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   min-height: 164px;
 }
 .comments_area .related_blog .blog_cont a {
-  font: 400 20px/30px "Poppins", sans-serif;
+  font: 400 20px/30px 'Montserrat', sans-serif;
   color: #2f2f2f;
   display: block;
 }
@@ -2758,7 +2758,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 30px;
 }
 .comments_area .comment_row h3 {
-  font: 500 22px/1 "Poppins", sans-serif;
+  font: 500 22px/1 'Montserrat', sans-serif;
   color: #2f2f2f;
   display: block;
   padding-bottom: 50px;
@@ -2776,7 +2776,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 40px;
 }
 .comments_area .comment_row .media .media-body .heding {
-  font: 400 18px/1 "Poppins", sans-serif;
+  font: 400 18px/1 'Montserrat', sans-serif
   color: #2f2f2f;
   display: block;
 }
@@ -2784,7 +2784,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #2e368f;
 }
 .comments_area .comment_row .media .media-body h6 {
-  font: 400 16px/1 "Poppins", sans-serif;
+  font: 400 16px/1 'Montserrat', sans-serif;
   padding-top: 10px;
   padding-bottom: 25px;
   color: rgba(80, 60, 87, 0.702);
@@ -2794,7 +2794,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: rgba(80, 60, 87, 0.702);
 }
 .comments_area .comment_row .media .media-body .reply {
-  font: 400 15px/37px "Poppins", sans-serif;
+  font: 400 15px/37px 'Montserrat', sans-serif;
   background: #eeeeee;
   min-width: 77px;
   display: inline-block;
@@ -2828,7 +2828,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   display: inline-block;
 }
 .portfolio_grid .protfoli_filter li a {
-  font: 400 16px/30px "Poppins", sans-serif;
+  font: 400 16px/30px 'Montserrat', sans-serif;
   color: #282828;
   margin: 0 10px;
   position: relative;
@@ -2877,7 +2877,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   opacity: 0;
 }
 .portfolio_grid .portfoli_inner .portfolio_item .hover a {
-  font: 400 22px/1 "Poppins", sans-serif;
+  font: 400 22px/1 'Montserrat', sans-serif;
   color: #fff;
   display: block;
 }
@@ -2932,12 +2932,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-left: -20px;
 }
 .strategy_area h4 {
-  font: 400 16px/27px "Poppins", sans-serif;
+  font: 400 16px/27px'Montserrat', sans-serif;
   color: #181818;
   padding-top: 120px;
 }
 .strategy_area h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px 'Montserrat', sans-serif;
   color: #181818;
   padding-top: 10px;
 }
@@ -2969,7 +2969,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   max-width: 100%;
 }
 .management_area .management h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px 'Montserrat', sans-serif;
   color: #181818;
   padding-top: 25px;
   position: relative;
@@ -3002,12 +3002,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 20px;
 }
 .management_area .highlights h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px 'Montserrat', sans-serif;
   color: #181818;
   padding-bottom: 10px;
 }
 .management_area .highlights h3 {
-  font: 500 30px/1 "Poppins", sans-serif;
+  font: 500 30px/1 'Montserrat', sans-serif;
   color: #181818;
   padding-top: 45px;
 }
@@ -3017,7 +3017,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   line-height: 1;
 }
 .management_area .highlights h6 {
-  font: 500 18px/1 "Poppins", sans-serif;
+  font: 500 18px/1 'Montserrat', sans-serif;
   color: #282828;
   padding-top: 15px;
   padding-bottom: 50px;
@@ -3027,7 +3027,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-top: 65px;
 }
 .management_area .have_idea h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px 'Montserrat', sans-serif;
   color: #181818;
   padding-bottom: 25px;
 }
@@ -3044,7 +3044,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   overflow: hidden;
 }
 .management_area .have_idea .next_p a {
-  font: 500 16px/1 "Poppins", sans-serif;
+  font: 500 16px/1 'Montserrat', sans-serif;
   color: #282828;
   float: left;
 }
@@ -3079,7 +3079,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 40px;
 }
 .got_problem .problem_from h2 {
-  font: 500 28px/1 "Poppins", sans-serif;
+  font: 500 28px/1 'Montserrat', sans-serif;
   color: #181818;
   padding-bottom: 30px;
 }
@@ -3100,7 +3100,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   outline: none;
   border: 2px solid #e6e6e6;
   background: transparent;
-  font: 400 18px/58px "Poppins", sans-serif;
+  font: 400 18px/58px 'Montserrat', sans-serif;
   color: rgba(40, 35, 49, 0.6);
   border-radius: 0;
   height: auto;
@@ -3161,7 +3161,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 100px;
 }
 .leave_comment h2 {
-  font: 500 22px/1 "Poppins", sans-serif;
+  font: 500 22px/1 'Montserrat', sans-serif;
   color: #181818;
   padding-bottom: 55px;
 }
@@ -3181,7 +3181,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   border-radius: 0;
   background: #fff;
   border: 1px solid #e6e6e6;
-  font: 400 16px/60px "Poppins", sans-serif;
+  font: 400 16px/60px 'Montserrat', sans-serif;
   color: rgba(83, 112, 151, 0.6);
   height: auto;
   padding: 0 30px;
@@ -3284,14 +3284,14 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   background-image: -ms-linear-gradient(0deg, #2e368f 0%, #7763ff 100%);
 }
 .contact_info .info h4 {
-  font: 500 22px/1 "Poppins", sans-serif;
+  font: 500 22px/1 'Montserrat', sans-serif;
   color: #282828;
   padding-bottom: 28px;
   padding-top: 45px;
 }
 .contact_info .info a, .contact_info .info p {
   display: block;
-  font: 400 16px/28px "Poppins", sans-serif;
+  font: 400 16px/28px 'Montserrat', sans-serif;
   color: rgba(24, 24, 24, 0.8);
 }
 .contact_info .info a:hover {
@@ -3301,11 +3301,11 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-left: 50px;
 }
 .contact_info .quick_call h3 {
-  font: 500 28px/1 "Poppins", sans-serif;
+  font: 500 28px/1 'Montserrat', sans-serif;
   color: #181818;
 }
 .contact_info .quick_call .name {
-  font: 500 22px "Poppins", sans-serif;
+  font: 500 22px 'Montserrat', sans-serif;
   color: #181818;
   display: block;
   padding: 45px 0 30px;
@@ -3332,8 +3332,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 120px;
 }
 .smarter_collect .smarter_text h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
-  color: #181818;
+  font: 500 36px/45px 'Montserrat', sans-serif ;
+  color: #2e368f;
   max-width: 420px;
 }
 .smarter_collect .smarter_text p {
@@ -3370,7 +3370,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .smarter_collect .smarter_text .media .media-body .heding {
   display: block;
-  font: 500 20px/1 "Poppins", sans-serif;
+  font: 500 20px/1 'Montserrat', sans-serif;
   color: #181818;
   padding-bottom: 17px;
 }
@@ -3383,7 +3383,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 10px;
 }
 .smarter_collect .smarter_text .media .media-body .get_btn {
-  font: 400 16px/1 "Poppins", sans-serif;
+  font: 400 16px/1 'Montserrat', sans-serif;
   color: #2e368f;
 }
 .smarter_collect .smarter_text .media .media-body .get_btn i {
@@ -3457,13 +3457,13 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding: 100px 0 80px;
 }
 .get_touch h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px 'Montserrat', sans-serif;
   color: #fff;
   padding-bottom: 15px;
 }
 .get_touch h6 {
   color: #fff;
-  font: 400 22px/1 "Poppins", sans-serif;
+  font: 400 22px/1 'Montserrat', sans-serif;
 }
 .get_touch p {
   color: #fff;
@@ -3496,7 +3496,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   overflow: hidden;
 }
 .easily_engage h2 {
-  font: 500 36px/46px "Poppins", sans-serif;
+  font: 500 36px/46px  'Montserrat', sans-serif;
   color: #181818;
   padding-bottom: 30px;
 }
@@ -3589,7 +3589,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   overflow: hidden;
 }
 .insight_integrations .tittle h2 {
-  font: 500 36px/45px "Poppins", sans-serif;
+  font: 500 36px/45px 'Montserrat', sans-serif;
   color: #181818;
   padding-bottom: 20px;
 }
@@ -3655,7 +3655,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   margin-bottom: 20px;
 }
 .footer_area .footer_logo address {
-  font: 400 16px/28px "Poppins", sans-serif;
+  font: 400 16px/28px'Montserrat', sans-serif;
   color: rgba(24, 24, 24, 0.8);
   display: block;
   padding-top: 35px;
@@ -3688,12 +3688,12 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding-bottom: 50px;
 }
 .footer_area .footer_widget h4 {
-  font: 500 20px/1 "Poppins", sans-serif;
+  font: 500 20px/1 'Montserrat', sans-serif;
   color: #242425;
   padding-bottom: 37px;
 }
 .footer_area .footer_widget .footer_nav li a {
-  font: 400 16px/38px "Poppins", sans-serif;
+  font: 400 16px/38px 'Montserrat', sans-serif;
   color: rgba(24, 24, 24, 0.8);
   display: block;
 }
@@ -3728,7 +3728,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   padding: 0;
 }
 .footer_area .copy_right .c_nav li a {
-  font: 400 15px/38px "Poppins", sans-serif;
+  font: 400 15px/38px 'Montserrat', sans-serif;
   color: rgba(24, 24, 24, 0.8);
   display: block;
 }
