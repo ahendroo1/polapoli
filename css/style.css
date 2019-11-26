@@ -55,13 +55,16 @@ Table of Content:
       max-width: 1100px;
     }
     .img-client{
-      
       width: 100%;
     }
     
     #platform-end{
       border-radius:50%;
       padding:30px;
+    }
+    .img-circle-end{
+      padding-top:20px;
+      padding-bottom:20px
     }
 
   }
@@ -76,6 +79,11 @@ Table of Content:
       border-radius:50%;
       padding-bottom:80px;
       padding-top:80px;
+    }
+
+    .img-circle-end{
+      padding-top:50px;
+      padding-bottom:50px
     }
 
   }
@@ -126,8 +134,14 @@ Table of Content:
 .color-pink-end{
   color:#EF4F72 ;
 }
+.bg-pink-end{
+  background-color: #EF4F72;
+}
 .color-blue-end{
   color:#2e368f ;
+}
+.bg-blue-end{
+  background-color: #2e368f;
 }
 
 .color-blue-bold-end{
@@ -386,6 +400,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
     top: 0px;
   }
 }
+
 @keyframes moveShap2 {
   0% {
     right: 230px;
@@ -631,14 +646,17 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   font-weight: 900;
   line-height: 40px;
 }
+
 .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu > .dropdown .dropdown-menu {
   display: block;
 }
+
 .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu > .dropdown .dropdown-menu:before, .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu > .dropdown .platform_facilitates .dropdown-menu.platform_row:after, .platform_facilitates .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu > .dropdown .dropdown-menu.platform_row:after, .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu > .dropdown .meet_yop .meet_row .dropdown-menu.yop_video:after, .meet_yop .meet_row .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu > .dropdown .dropdown-menu.yop_video:after {
   content: "\f0d9";
   top: 0px;
   left: -10px;
 }
+
 @media (min-width: 991px) {
   .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu > .dropdown .dropdown-menu {
     transform: translateZ(0);
@@ -651,6 +669,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
     top: 0px;
   }
 }
+
 @media (min-width: 991px) {
   .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu > .dropdown:hover .dropdown-menu, .main_header_area .navbar .navbar_supported ul li.dropdown .dropdown-menu > .dropdown:focus .dropdown-menu {
     transform: scale(1, 1);
@@ -689,17 +708,18 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   background-image: -ms-linear-gradient(90deg, #f38a50 0%, #f2c46f 100%);
 }
 
-
 .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li a .fa-cogs, .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li a .fa-drupal {
   background-image: -moz-linear-gradient(90deg, #6a5bfe 0%, #b698f6 100%);
   background-image: -webkit-linear-gradient(90deg, #6a5bfe 0%, #b698f6 100%);
   background-image: -ms-linear-gradient(90deg, #6a5bfe 0%, #b698f6 100%);
 }
+
 .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li a .fa-piggy-bank {
   background-image: -moz-linear-gradient(90deg, #1dc2de 0%, #0ae4c8 100%);
   background-image: -webkit-linear-gradient(90deg, #1dc2de 0%, #0ae4c8 100%);
   background-image: -ms-linear-gradient(90deg, #1dc2de 0%, #0ae4c8 100%);
 }
+
 .main_header_area .navbar .navbar_supported ul li.dropdown .home_drop li a span {
   flex: 1;
   padding-left: 15px;
@@ -731,6 +751,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
     opacity: 1;
   }
 }
+
 .main_header_area .navbar .right_nav li {
   display: inline-block;
 }
@@ -738,15 +759,18 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   color: #2e368f;
   font: 400 18px/52px "Montserrat", sans-serif;
 }
+
 .main_header_area .navbar .right_nav li a:hover, .main_header_area .navbar .right_nav li a:focus {
-  color: #1be394;
+  color: #EF4F72;
 }
+
 .main_header_area .navbar .right_nav li .theme_btn {
   line-height: 40px;
   color: #fff !important;
   margin-left: 30px;
   min-width: 140px;
 }
+
 .main_header_area.navbar_fixed {
   position: fixed;
   width: 100%;
