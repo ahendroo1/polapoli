@@ -74,6 +74,7 @@ Table of Content:
   .tab-content{
     display: none;
   }
+  
 
   @media only screen and (max-width: 992px) {
       
@@ -128,6 +129,7 @@ Table of Content:
       display: grid;
       grid-template-columns: auto auto  ;
       padding: 10px;
+      margin-bottom: 50px;
       
     }
 
@@ -160,6 +162,12 @@ Table of Content:
 
   }
 
+
+
+
+#login-input:focus {
+    border-left: 4px solid #EF4F72
+}
 .media-end{
   padding-left: 20px;
   padding-right: 20px;
@@ -193,11 +201,17 @@ Table of Content:
   margin-top:30px;
 }
 
-.input-form-end{
-  border:solid white 0px;
-  border-bottom: solid grey 1px;
-  border-radius: 0px
+.input-form-end {
+  /* border:solid white 0px; */
+  border: solid ghostwhite 1px;
+  border-radius: 0px;
+  padding:25px;
 }
+.form-group-end{
+  margin-bottom: 0px;
+
+}
+
 
 .plan-end{
   padding:0px;
@@ -234,6 +248,15 @@ Table of Content:
 .color-blue-bold-end{
   color:#2e368f ;
   /* font-weight : bold; */
+}
+
+
+
+.login-social-media{
+
+  display: grid;
+  grid-template-columns: auto auto auto ; 
+  padding:10px;
 }
 
 /* ------------------------------------------------------
@@ -396,6 +419,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
   color: #2e368f;
 }
+
 
 /*----------------------------------------------------*/
 /* Move frame*/
