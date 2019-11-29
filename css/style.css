@@ -249,6 +249,13 @@ Table of Content:
   color:#2e368f ;
   /* font-weight : bold; */
 }
+.btn-group-end{
+  box-shadow: 2px 2px 2px rgba(176, 194, 253, 0.35);
+}
+.btn-end {
+  padding-left:40px;
+  padding-right:40px;
+}
 
 
 
