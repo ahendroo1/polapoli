@@ -83,6 +83,20 @@ Table of Content:
     .tab-content{
       display: inherit;
     }
+    
+    .content-end-gr{
+
+      display: grid;
+      grid-template-columns: auto auto ;
+      padding: 10px;
+      
+    }
+
+    .content-item {
+
+      padding: 10px;
+      /* text-align: center; */
+    }
     .tab-content{
       background-image:url('../images/polapoli_img/960x384.png');
       background-repeat: no-repeat;
@@ -112,7 +126,7 @@ Table of Content:
     .content-end-gr{
 
       display: grid;
-      grid-template-columns: auto auto auto;
+      grid-template-columns: auto auto  ;
       padding: 10px;
       
     }
