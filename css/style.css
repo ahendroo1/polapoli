@@ -41,7 +41,9 @@ Table of Content:
 
 @import url("https://fonts.googleapis.com/css?family=Montserrat:700&display=swap");
 
-
+  a:hover{
+    color: #EF4F72 ;
+  }
   .btn{
     border-radius: 0px;
   }
@@ -85,7 +87,7 @@ Table of Content:
     .desktop-content{
       display: none;
     }
-    .tab-content{
+    .tab-content-end{
       display: inherit;
     }
     
@@ -168,15 +170,13 @@ Table of Content:
       display: none;
     }
 
-
   }
-
-
 
 
 #login-input:focus {
     border-left: 4px solid #EF4F72
 }
+
 .media-end{
   padding-left: 20px;
   padding-right: 20px;
@@ -240,6 +240,7 @@ Table of Content:
 }
 .btn-end{
   border-radius:0px;
+  padding:10px;
 }
 .color-pink-end{
   color:#EF4F72 ;
@@ -259,7 +260,10 @@ Table of Content:
   /* font-weight : bold; */
 }
 .btn-group-end{
-  box-shadow: 2px 2px 2px rgba(176, 194, 253, 0.35);
+  box-shadow: 1px 0px 10px 0px rgba(176, 194, 253, 0.35);
+}
+.btn-sh-end{
+  box-shadow: 1px 0px 10px 0px rgba(176, 194, 253, 0.35);
 }
 .btn-end {
   padding-left:40px;
@@ -282,6 +286,9 @@ Table of Content:
   padding-top:50px;
 }
 
+.price-menu-end{
+  padding-top: 30px;
+}
 /* ------------------------------------------------------
 
 ------------------------------------------------------- */
