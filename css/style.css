@@ -68,6 +68,14 @@ Table of Content:
     padding:30px;
   }
 
+  #platform-end-mobile{
+    border-radius:50%;
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:30px;
+    padding-bottom:30px;
+  }
+
   .img-circle-end{
     padding-top:20px;
     padding-bottom:20px;
@@ -87,14 +95,19 @@ Table of Content:
     .desktop-content{
       display: none;
     }
-    .tab-content-end{
-      display: inherit;
-    }
     
-    .content-end-gr{
+    .content-end-left{
 
       display: grid;
-      grid-template-columns: auto auto ;
+      grid-template-columns: 150px auto ;
+      padding: 10px;
+      
+    }
+    
+    .content-end-right{
+
+      display: grid;
+      grid-template-columns: auto 150px; 
       padding: 10px;
       
     }
@@ -109,8 +122,10 @@ Table of Content:
       padding: 10px;
       /* text-align: center; */
     }
+
     .tab-content-end{
-      background-image:url('../images/polapoli_img/960x384.png');
+      display: inherit;
+      background-image:url('../images/polapoli_img/icon2.png');
       background-repeat: no-repeat;
       background-size: 100%;
     }
@@ -129,9 +144,10 @@ Table of Content:
     }
     .mobile-content{
       display: inherit;
-      background-image:url('../images/polapoli_img/414-x-2800.png');
+      background-image:url('../images/polapoli_img/icon1.png');
       background-repeat: no-repeat;
       background-size: 100%;
+      
 
     }
 
@@ -199,6 +215,7 @@ Table of Content:
   border-top-right-radius: 100%;
   border-bottom-right-radius: 100%;
   border-bottom-left-radius: 100%;
+
 }  
 
 .bg-color-end{
