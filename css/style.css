@@ -70,10 +70,7 @@ Table of Content:
 
   #platform-end-mobile{
     border-radius:50%;
-    padding-left:40px;
-    padding-right:40px;
-    padding-top:30px;
-    padding-bottom:30px;
+    padding:40px;
   }
 
   .img-circle-end{
