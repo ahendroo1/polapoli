@@ -2605,7 +2605,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 .blog_area .blog_left_sidebar .blog_item h6 {
   display: block;
   font: 400 16px/35px 'Montserrat', sans-serif;
-  color: #626161;
+  color: #2e368f;
   padding-top: 10px;
 }
 .blog_area .blog_left_sidebar .blog_item h6 i {
@@ -2613,7 +2613,7 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
 }
 .blog_area .blog_left_sidebar .blog_item .heding {
   font: 500 28px/36px 'Montserrat', sans-serif;
-  color: #2f2f2f;
+  color: #2e368f;
   display: block;
   padding: 15px 0;
 }
