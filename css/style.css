@@ -85,10 +85,15 @@ Table of Content:
   .tab-content-end{
     display: none;
   }
+  .head-text-bottom{
+    display: none;
+  }
   
 
   @media only screen and (max-width: 992px) {
-      
+    .head-text{
+      display: none;
+    }
     .desktop-content{
       display: none;
     }
@@ -138,6 +143,9 @@ Table of Content:
 
   @media only screen and (max-width: 600px) {
     
+    .head-text {
+      display: none;
+    }
     .tab-content-end{
       display: none;
     }
