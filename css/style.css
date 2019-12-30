@@ -88,6 +88,11 @@ Table of Content:
   .head-text-bottom{
     display: none;
   }
+
+  
+  .title-client{
+    margin-left:250px;margin-right: 250px; 
+  }
   
 
   @media only screen and (max-width: 992px) {
@@ -125,6 +130,10 @@ Table of Content:
       /* text-align: center; */
     }
 
+    .title-client{
+      margin-left:250px;margin-right: 250px; 
+    }
+
     .tab-content-end{
       display: inherit;
       background-image:url('../images/polapoli_img/icon2.png');
@@ -159,9 +168,13 @@ Table of Content:
       /* position: fixed; */
       /* background-position-y: 70px; */
 
-      
-      
 
+    }
+
+    
+    .title-client{
+      margin-left: 0px ;
+      margin-right: 0px ; 
     }
 
     .content-end-gr{
