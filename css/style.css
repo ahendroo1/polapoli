@@ -2207,7 +2207,8 @@ body a:focus, body a:hover, body .btn:focus, body .btn:hover, body button:focus,
   width: 150px;
   height: 282px;
   border-radius: 50%;
-  background: #eefffa;
+  /* background: #EF4F72; */
+  background: white;
   z-index: -1;
 }
 .partener_end .revenue {
