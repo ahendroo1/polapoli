@@ -1,4 +1,4 @@
 # polapoli
 
-Akses : polapoli.com
+Akses : http://polapoli.com || 
 Build : Design Template
